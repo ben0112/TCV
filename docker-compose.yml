@@ -27,7 +27,7 @@ services:
       - /etc/timezone:/etc/timezone:ro
 
   trojan:
-      build: ./trojan
+      image: trojangfw/trojan
       container_name: trojan
       restart: always
       ports:
