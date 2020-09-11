@@ -6,7 +6,7 @@
   "remote_port": 81,
   "log_level": 1,
   "log_file": "",
-  "password": ["7654321qaz"],
+  "password": ["38f2e10ee763"],
   "disable_http_check": false,
   "udp_timeout": 60,
   "ssl": {
